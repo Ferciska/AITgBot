@@ -1,0 +1,56 @@
+# Игнорирование системных файлов и папок Windows
+*.log
+*.tmp
+*.bak
+*.lnk
+*.ini
+*.dat
+*.blf
+*.regtrans-ms
+NTUSER.*
+
+# Игнорирование пользовательских папок Windows
+AppData/
+Contacts/
+Cookies/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Игнорирование IDE и редакторов
+.vscode/
+.idea/
+*.iml
+
+# Игнорирование виртуальных окружений Python
+venv/
+__pycache__/
+*.pyc
+
+# Игнорирование папок сборки
+build/
+dist/
+*.spec
+
+# Игнорирование других временных и скрытых файлов
+.cache/
+.ssh/
+.idlerc/
+.wdm/
+.android/
+.codetogether/
+.mcreator/
+.openjfx/
+
+# Игнорирование специфичных файлов
+Alya_dura228.mcaddon
+errors.log
+test.txt
